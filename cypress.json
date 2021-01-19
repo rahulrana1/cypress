@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://sampleURL.com",
+    "chromeWebSecurity": false,
+    "modifyObstructiveCode": false,
+    "defaultCommandTimeout": 10000,
+    "watchForFileChanges": false
+
+}
